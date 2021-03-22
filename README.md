@@ -9,4 +9,6 @@ For deg som liker en ekstra utfordring.
 
 ## Installere
 
-cargo install --git `https://github.com/paskeharen/eggnett-client`
+```bash
+cargo install --git https://github.com/paskeharen/eggnett-client
+```
